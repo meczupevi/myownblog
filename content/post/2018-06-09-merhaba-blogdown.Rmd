@@ -1,0 +1,19 @@
+---
+title: merhaba blogdown
+author: meczupevi
+date: '2018-06-09'
+slug: merhaba-blogdown
+categories:
+  - R
+tags:
+  - blogdown
+---
+
+### Merhaba Blogdown
+
+This tutorial will show you bla bla the bash command line that you are comfortable using markdown to format **content**
+
+- list1
+- list2
+
+![](https://patiliyo.com/wp-content/uploads/2018/01/penguenler-3.png)
